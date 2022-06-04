@@ -14,6 +14,8 @@ If you are working with a fakeship, this is one way to set things up for rapid d
 2. Clone this repo into the same directory as the fakeship, then copy the contents of `src/` into `zod/base/`.
 3. Develop either in `zod/base/` or in this repo folder directly.  It's probably a bit easier to develop in the fakeship and copy back here frequently.
 
+Caveat:  The `.gitkeep` files should be removed once you have something in that directory, as Clay won't have a mark for them.
+
 ## Creating a Repository
 
 1.  Log in to GitHub.
