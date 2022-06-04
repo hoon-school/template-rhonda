@@ -70,7 +70,7 @@
     !>  (check 9 15.000)
   %+  expect-eq
     !>  %.y
-    !>  (check 9 15.50)
+    !>  (check 9 15.540)
   %+  expect-eq
     !>  %.n
     !>  (check 9 20.000)
