@@ -124,7 +124,7 @@
     !>  (check 12 50.000)
   %+  expect-eq
     !>  %.y
-    !>  (check 12 58.404)
+    !>  (check 12 58.504)
   ==
 ++  test-series-three
   ;:  weld
